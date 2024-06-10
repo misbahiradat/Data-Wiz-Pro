@@ -17,7 +17,7 @@ Welcome to **DataWizPro**, where data meets magic! This application, built with 
    git clone https://github.com/misbahiradat/Data-Wiz-Pro
    cd your-repository-directory
    ```
-2. **Install requirements**:
+2. **Install requirements (Make sure to have Python 3.9 x64)**:
    ```bash
    pip install -r requirements-.txt
    ```
